@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockangleTest.deps.json
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockangleTest.runtimeconfig.json
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockangleTest.runtimeconfig.dev.json
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/obj/Debug/netcoreapp1.1/clockangleTest.AssemblyInfo.cs
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockangleTest.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockangleTest.pdb
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockAngle.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/bin/Debug/netcoreapp1.1/clockAngle.pdb
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/obj/Debug/netcoreapp1.1/clockangleTest.dll
+/Users/Guest/Desktop/clockAngle.Solution/clockAngle.Tests/obj/Debug/netcoreapp1.1/clockangleTest.pdb
